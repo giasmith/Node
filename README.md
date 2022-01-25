@@ -1,2 +1,2 @@
 # Node
-Testing the node data structure for different hair origins and lengths in Python
+Testing the nodes data structure for different hair origins and lengths in Python
